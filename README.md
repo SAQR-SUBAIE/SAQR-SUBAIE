@@ -1,16 +1,17 @@
-### Hi there 👋
+### welcome to my **profile** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<!--
-**SAQR-SUBAIE/SAQR-SUBAIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Discord](https://discord.c99.nl/widget/theme-2/716783245387235410.png)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ I’m love Python 
+- 💬 Ask me about anything related to Python
+- 📫 How to reach me: [@Discord](https://discord.com/channels/@me/716783245387235410)
+-  <span style="color: green"> 🗻 My main project is Last Team And Last Games
+</span>
+
+---
+
+### My status
+
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=SAQR-SUBAIE&count_private=true&show_icons=true&theme=radical">
