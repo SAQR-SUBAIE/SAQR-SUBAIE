@@ -1,3 +1,9 @@
+<h2 align="center">
+<img src="https://media1.tenor.com/images/443d5c753ebd06d7692d4a8645524c53/tenor.gif">
+</h2>
+
+---
+
 ### welcome to my **profile** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ![Discord](https://discord.c99.nl/widget/theme-2/716783245387235410.png)
