@@ -23,5 +23,3 @@
 
 ---
 
-- My discord:
-[![Discord Banner 4](https://discordapp.com/api/guilds/670737267387793415/widget.png?style=banner4)](https://discord.gg/tyqF43Z5Vv) 
