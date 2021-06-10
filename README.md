@@ -4,11 +4,10 @@
 
 ---
 
-- ❤️ I’m love Python 
+- ❤ I’m love Python 
 - 💬 Ask me about anything related to Python
 - 📫 How to reach me: [@Discord](https://discord.com/channels/@me/716783245387235410)
--  <span style="color: green"> 🗻 My main project is [__SumBot__](https://github.com/SumBot/SumBot)
-</span>
+-  <span style="color: green"> 🗻 My main project is [SumBot](https://github.com/SumBot/SumBot) </span>
 
 ---
 
