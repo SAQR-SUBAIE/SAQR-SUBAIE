@@ -20,8 +20,3 @@
 ### My status
 
 <img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=SAQR-SUBAIE&count_private=true&show_icons=true&theme=radical">
-
----
-
-### ☉ My discord:
-[![Discord Banner 4](https://discordapp.com/api/guilds/670737267387793415/widget.png?style=banner4)](https://discord.gg/tyqF43Z5Vv)
