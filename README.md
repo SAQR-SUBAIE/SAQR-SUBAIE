@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="https://media1.tenor.com/images/443d5c753ebd06d7692d4a8645524c53/tenor.gif">
+<img src="https://media.discordapp.net/attachments/845033464357191691/909226980942155786/standard.gif">
 </h2>
 
 ---
