@@ -10,8 +10,7 @@
 
 ---
 
-- ❤ I’m love Python 
-- 💬 Ask me about anything related to Python
+- 💬 Ask me about anything related to html and css 
 - 📫 How to reach me: [@Discord](https://discord.com/channels/@me/716783245387235410)
 - <span style="color: green"> 🗻 My main project is [فَاذْكُرُونِي](https://fdrbot.xyz) </span>
 - <span style="color: green"> 🌍 Discord Server [Click here](http://fdrbot.xyz/support)
