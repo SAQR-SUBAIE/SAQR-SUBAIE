@@ -13,7 +13,8 @@
 - 💬 Ask me about anything related to html and css 
 - 📫 How to reach me: [@Discord](https://discord.com/channels/@me/716783245387235410)
 - <span style="color: green"> 🗻 My main project is [فَاذْكُرُونِي](https://discord.com/oauth2/authorize?client_id=728782652454469662&permissions=8&scope=bot%20applications.commands) </span>
-- <span style="color: green"> 🌍 Discord Server [Click here](https://discord.gg/Aros)
+- <span style="color: green"> 🌍 Discord Server [Aros](https://discord.gg/Aros)
+- <span style="color: green"> 👀 my portfolio site [saqr-subaie.com](https://saqr-subaie.com)
 ---
 
 
